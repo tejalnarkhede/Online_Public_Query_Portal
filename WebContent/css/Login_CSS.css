@@ -1,0 +1,67 @@
+@CHARSET "ISO-8859-1";
+
+body {  
+        background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+form {
+	border: 4px solid red;
+}
+
+input[type=text], input[type=password], input[type=number] {
+	width: 100%;
+	padding: 12px 20px;
+	margin: 8px 0;
+	display: inline-block;
+	border: 1px solid black;
+	box-sizing: border-box;
+	border-radius: 8px;
+}
+
+#FullLogin {
+	width: 350px;
+        height:400px;
+	padding: 10px;
+	margin: 40px;
+	margin-left: auto;
+	margin-right: auto;
+        background-color:pink;
+        
+}
+
+button {
+	background-color: #4CAF50;
+	color: white;
+	padding: 14px 20px;
+	margin: 8px 0;
+	border: none;
+	cursor: pointer;
+	width: 100%;
+}
+
+h3 {
+	text-align: center;
+	margin: 24px 0 12px 0;
+        font-size:40px;
+        font-style:bold;
+}
+
+button:hover {
+	opacity: 0.8;
+}
+
+.imgcontainer {
+	text-align: center;
+	margin: 24px 0 12px 0;
+}
+
+img.avatar {
+	width: 20%;
+	border-radius: 50%;
+}
+
+.container {
+	padding: 16px;
+}

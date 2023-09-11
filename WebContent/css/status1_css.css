@@ -1,0 +1,21 @@
+@charset "ISO-8859-1";
+body {
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color:#FFFACD;
+	/*background-image: url('E://geeks-2894621__340.jpg');*/
+	/* #FFFACD;*/
+	/*F0F0F0*/
+	color :black;
+}
+
+table
+{
+	background-color:white;
+	align:center;
+}
+td
+{
+	width:50%; 
+}
